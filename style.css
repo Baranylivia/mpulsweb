@@ -544,7 +544,9 @@
             opacity: 0.8;
         }
 
-        
+        .pub-badge.ads {
+         background-color: #2a5aa8;
+        }
         .pub-badge.arxiv {
             background-color: #b31b1b; 
         }
